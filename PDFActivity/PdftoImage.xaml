@@ -73,13 +73,14 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="PdftoImage" sap:VirtualizedContainerService.HintSize="868.8000000000001,366.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="PdftoImage" sap:VirtualizedContainerService.HintSize="1227,592.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <upap:ExportPDFPageAsImage DisplayName="Export PDF Page As Image" FileName="C:\Users\jagad\Downloads\rajalakshmi_prospectus.pdf" sap:VirtualizedContainerService.HintSize="416,168.8" sap2010:WorkflowViewState.IdRef="ExportPDFPageAsImage_1" ImageDpi="150" OutputFileName="About REC.jpg " PageNumber="2" />
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Process Completed...!&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,117" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;start...!&quot;]" />
+    <upap:ExportPDFPageAsImage DisplayName="Export PDF Page As Image" FileName="C:\Users\jagad\Downloads\rajalakshmi_prospectus.pdf" sap:VirtualizedContainerService.HintSize="416,167" sap2010:WorkflowViewState.IdRef="ExportPDFPageAsImage_1" ImageDpi="150" OutputFileName="About REC.jpg " PageNumber="2" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,108" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Process Completed...!&quot;]" />
   </Sequence>
 </Activity>
