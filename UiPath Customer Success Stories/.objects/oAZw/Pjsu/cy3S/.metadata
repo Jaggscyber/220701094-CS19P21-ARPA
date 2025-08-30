@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA & Automation Case Studies  UiPath",
+  "Type": "Screen",
+  "Id": "cy3S8uij4U-A6b1mykR9eQ",
+  "Reference": "LxZKEV7NIEug47CnoZEFKA/cy3S8uij4U-A6b1mykR9eQ",
+  "ParentRef": "LxZKEV7NIEug47CnoZEFKA/PjsuhrEaW0WwQO9P4seNCw",
+  "Created": "2025-08-26T02:48:08.3459406Z",
+  "Updated": "2025-08-26T02:48:08.3459406Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

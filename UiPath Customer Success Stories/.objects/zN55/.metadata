@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome MoE, National Institute Ranking Framework (NIRF)",
+  "Type": "App",
+  "Id": "zN55ReXIVEqYu-gHwf-ehA",
+  "Reference": "LxZKEV7NIEug47CnoZEFKA/zN55ReXIVEqYu-gHwf-ehA",
+  "Created": "2025-08-26T03:22:51.7560503Z",
+  "Updated": "2025-08-26T03:22:51.7560503Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

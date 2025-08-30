@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome RPA & Automation Case Studies  UiPath",
+  "Type": "App",
+  "Id": "oAZwTS_4z0aOXqWLEtOCBw",
+  "Reference": "LxZKEV7NIEug47CnoZEFKA/oAZwTS_4z0aOXqWLEtOCBw",
+  "Created": "2025-08-26T02:48:08.2445445Z",
+  "Updated": "2025-08-26T02:48:08.2445445Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
